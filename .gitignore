@@ -3,3 +3,4 @@ gitignore.io help:
   :types: - creates .gitignore files for types of operating systems, programming languages or IDEs
 /nbproject/private/
 /build/
+/dist/
